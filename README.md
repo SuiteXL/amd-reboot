@@ -20,3 +20,7 @@ Using this is as simple as building it from the source using Visual Studio 2022,
 
 The way I have it set up on machine is using Wootomation, and binding it to my minus key (-) on the numpad.
     
+## Why not just delete the CN folder?
+
+Deleting the CN folder DOES also resolve this issue, however all you're really doing is just deleting the folder which gets remade anyways when AMD Adrenalin restarts, meaning the problem will likely come back, on top of which you will also delete all your settings (or at least game-specific ones), playtime hour tracking, etc.
+and using this utility avoids those problems, and is much easier than manually deleting the folder all the time.
